@@ -2,7 +2,7 @@
 # Exploiting Linguistic Ambiguity in LLM-Generated Puzzles
 
 This repository contains the code, data, and prompts for the paper:
-**"Exploiting Linguistic Ambiguity: Evaluating Adversarial Intent in Large Language Models Through Puzzle Generation"** (ACL SRW 2025)
+**"Exploiting Linguistic Ambiguity: Evaluating Adversarial Intent in Large Language Models Through Puzzle Generation"** (ACL REALM 2025)
 
 ## Contents
 
